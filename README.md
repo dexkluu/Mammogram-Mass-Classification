@@ -25,3 +25,7 @@ To replicate my results, one could simply run the code in the Jupyter Notebook. 
 ## Author(s)
 
 * **Dexter Luu**
+
+
+
+[Go back to the main project page](https://dexkluu.github.io/Dexter/)
