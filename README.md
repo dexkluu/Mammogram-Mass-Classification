@@ -1,3 +1,6 @@
+# Notes
+A jupyter notebook showing the analysis can be seen [here](https://nbviewer.jupyter.org/github/dexkluu/Mammogram-Mass-Classification/blob/master/Mammogram%20Mass%20Classification.ipynb).
+
 # Mammogram-Mass-Classification
 This project deals with classifying masses found in mammogram results as benign or malignant. The data is from the UCI repository. One can find the basic info for the columns below:
 
