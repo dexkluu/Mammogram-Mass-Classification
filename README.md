@@ -27,4 +27,5 @@ To replicate my results, one could simply run the code in the Jupyter Notebook. 
 * **Dexter Luu**
 
 <br>
+
 [Go back to the main project page](https://dexkluu.github.io/Dexter/)
