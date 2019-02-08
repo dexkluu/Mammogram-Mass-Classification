@@ -17,7 +17,7 @@ The goal of this project is to test different classification methods and find wh
 The analysis was done using Python version 3.6.5 on a Jupyter Notebook. The libraries used were pandas, numpy, sklearn, and matplotlib.
 
 ## Results
-The models had accuracies around 70 and 80 percent. The best performing model was the logistic regression one. Again, the analysis can be seen in the link in the notes section above.
+The models had accuracies around the 75%-85% range. The best performing model was the logistic regression one. Again, the analysis can be seen in the link in the notes section above.
 
 ## Replicate the analysis
 To replicate my results, one could simply run the code in the Jupyter Notebook. The data is included in the repository but it can also be found from the UCI repository where it was originally found.
